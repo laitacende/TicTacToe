@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="name">Tic Tac Toe</string>
+    <string name="size3">3x3</string>
+    <string name="size5">5x5</string>
+    <string name="instruction">Choose size of grid</string>
+</resources>
